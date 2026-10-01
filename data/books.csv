@@ -1,0 +1,41 @@
+book_id,title,author,category,quantity
+1,Introduction to Quantum Mechanics,David J. Griffiths,Physics,7
+2,Classical Mechanics,John R. Taylor,Physics,2
+3,Introduction to Electrodynamics,David J. Griffiths,Physics,2
+4,Modern Physics,Kenneth S. Krane,Physics,7
+5,Solid State Physics,Neil W. Ashcroft,Physics,4
+6,Mathematical Methods for Physicists,Arfken,Mathematics,3
+7,Advanced Engineering Mathematics,Erwin Kreyszig,Mathematics,3
+8,Linear Algebra,Gilbert Strang,Mathematics,3
+9,Complex Analysis,James Ward Brown,Mathematics,7
+10,Differential Equations,Dennis G. Zill,Mathematics,2
+11,Python Crash Course,Eric Matthes,Computer Science,7
+12,Introduction to Algorithms,Cormen et al.,Computer Science,7
+13,Computer Networks,Andrew S. Tanenbaum,Computer Science,6
+14,Operating System Concepts,Silberschatz,Computer Science,2
+15,Database System Concepts,Korth,Computer Science,6
+16,Microelectronic Circuits,Sedra and Smith,Electronics,5
+17,Electronic Devices,Thomas L. Floyd,Electronics,2
+18,Digital Logic Design,M. Morris Mano,Electronics,2
+19,Communication Systems,Simon Haykin,Electronics,2
+20,Signals and Systems,Alan V. Oppenheim,Electronics,3
+21,Physical Chemistry,Atkins,Chemistry,3
+22,Organic Chemistry,Morrison and Boyd,Chemistry,6
+23,Inorganic Chemistry,J. D. Lee,Chemistry,6
+24,Analytical Chemistry,Skoog,Chemistry,2
+25,Thermodynamics,P. K. Nag,Chemistry,6
+26,Cell Biology,Bruce Alberts,Biology,3
+27,Molecular Biology of the Cell,Alberts et al.,Biology,7
+28,Genetics,Benjamin A. Pierce,Biology,7
+29,Ecology,Michael Begon,Biology,7
+30,Human Physiology,Guyton,Biology,6
+31,Engineering Mechanics,S. Timoshenko,Engineering,5
+32,Fluid Mechanics,Frank M. White,Engineering,3
+33,Heat Transfer,J. P. Holman,Engineering,5
+34,Control Systems,Ogata,Engineering,6
+35,Engineering Materials,Callister,Engineering,4
+36,Introduction to Statistics,Walpole,Statistics,8
+37,Probability and Statistics,DeGroot,Statistics,8
+38,Statistical Inference,Casella and Berger,Statistics,2
+39,Applied Statistics,David C. Howell,Statistics,8
+40,Regression Analysis,Montgomery,Statistics,8
